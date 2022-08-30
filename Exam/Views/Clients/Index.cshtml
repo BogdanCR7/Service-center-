@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Exam.Models.Client>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<head>
+    <style>
+        th {
+            padding: 1rem 2rem;
+        }
+    </style>
+</head>
+
+<div style="max-width:1100px;" class="container">
+    <div class="head">
+        <div class="headtext">
+            Clients
+        </div>
+        <form>
+        <button asp-action="Create" class="butn btn-3 btn-sep icon-heart">Add</button>
+            </form>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>PassportNumber</th>
+                <th>Name</th>
+                <th>Adress</th>
+                <th style="text-align: center;">PhoneNumber</th>
+                <th>YearBirth</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>@item.PassportNumber</td>
+                <td>@item.Name</td>
+                <td>@item.Adress</td>
+                <td>@item.PhoneNumber</td>
+                <td>@item.YearBirth</td>
+                <td class="act">
+                    <form asp-action="Edit" asp-route-id="@item.PassportNumber" method="get" onclick="this.submit()">
+                        <div asp-action="Edit" asp-route-id="@item.PassportNumber" class="click-to-top">
+                            <img style="width: 20px;height:20px; cursor: pointer;" src="pencil.png" alt="">
+                            <span>Edit</span>
+                        </div>
+                    </form>
+                    <form asp-action="Delete" asp-route-id="@item.PassportNumber"  onclick="this.submit()">
+                        <div asp-action="delete" asp-route-id="@item.PassportNumber" class="click-to-top">
+                            <img style="width: 20px;height:20px;cursor: pointer;" src="delete.png" alt="">
+                            <span>Delete</span>
+                        </div>
+                        </form>
+                </td>
+            </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

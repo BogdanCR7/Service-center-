@@ -1,0 +1,183 @@
+﻿@model Exam.Models.OrderCreationViewModel
+
+@{
+	ViewData["Title"] = "Create";
+}
+
+<head>
+	<script>
+		function CheckSerialNumber() {
+			var number = document.getElementById("find");
+			if (number != null) {
+				$.ajax({
+					type: 'POST',
+					url: '@Url.Action("CheckSerialNumber")',
+					dataType: 'json',
+					data: { id: document.getElementById("serial").value },
+					success: function (data)
+					{
+						if (data != null)
+						{
+							document.getElementById("category").value = data.category.category;
+							document.getElementById("year").value = data.yearOfIssue;
+							document.getElementById("brand").value = data.brand;
+							document.getElementById("price").value = data.price;
+							document.getElementById("model").value = data.model;
+						}
+						else
+						{
+							alert('Товар не найден!');
+						}
+					},
+					error: function (ex) {
+						console.log(ex);
+					}
+				});
+				return false;
+			}
+		}
+
+		function CheckPassport() {
+			var number = document.getElementById("find");
+			if (number != null) {
+				$.ajax({
+					type: 'POST',
+					url: '@Url.Action("CheckPassport")',
+					dataType: 'json',
+					data: { id: document.getElementById("passport").value },
+					success: function (data)
+					{
+						if (data != null)
+						{
+							document.getElementById("name").value = data.name;
+							document.getElementById("phone").value = data.phoneNumber;
+							document.getElementById("adress").value = data.adress;
+							document.getElementById("birth").value = parseInt(data.yearBirth);
+						}
+						else
+						{
+							alert('Человек не найден!');
+						}
+					},
+					error: function (ex) {
+					}
+				});
+				return false;
+			}
+		}
+	</script>
+
+	<style>
+		.div-srch {
+			display: flex;
+			flex-direction: row;
+			width: 200%;
+			place-items: center;
+		}
+
+		.srch {
+			height: 100%;
+			margin-top: 11px;
+		}
+	</style>
+</head>
+
+<h1>WE ARE CREATING NEW ORDER!</h1>
+
+<div class="row">
+	<div class="col-md-4">
+		<form asp-action="Create">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+			<div class="div-srch">
+				<div class="container" style="background-color:lightgray;">
+					<p><h3>Good</h3></p>
+					<div class="div-srch">
+						<div class="form-group">
+							<label asp-for="SerialNumber" class="control-label"></label>
+							<input id="serial" asp-for="SerialNumber" class="form-control" />
+							<span asp-validation-for="SerialNumber" class="text-danger"></span>
+						</div>
+						<button id="find" type="button" class="btn btn-info srch" onclick="return CheckSerialNumber();">Find</button>
+					</div>
+
+					<div class="form-group">
+						<label asp-for="Category" class="control-label"></label>
+						<input id="category" asp-for="Category" class="form-control" />
+						<span asp-validation-for="Category" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="YearOfIssue" class="control-label"></label>
+						<input id="year" asp-for="YearOfIssue" class="form-control" />
+						<span asp-validation-for="YearOfIssue" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="Brand" class="control-label"></label>
+						<input id="brand" asp-for="Brand" class="form-control" />
+						<span asp-validation-for="Brand" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="Price" class="control-label"></label>
+						<input id="price" asp-for="Price" class="form-control" />
+						<span asp-validation-for="Price" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="Model" class="control-label"></label>
+						<input id="model" asp-for="Model" class="form-control" />
+						<span asp-validation-for="Model" class="text-danger"></span>
+					</div>
+
+				</div>
+				<div class="container" style="background-color:darkgray; margin-left:10%;">
+					<p><h3>Customer</h3></p>
+					<div class="div-srch">
+						<div class="form-group">
+							<label asp-for="PassportNumber" class="control-label"></label>
+							<input id="passport" asp-for="PassportNumber" class="form-control" />
+							<span asp-validation-for="PassportNumber" class="text-danger"></span>
+						</div>
+						<button id="pass" type="button" class="btn btn-info srch" onclick="return CheckPassport();">Find</button>
+					</div>
+
+					<div class="form-group">
+						<label asp-for="Name" class="control-label"></label>
+						<input id="name" asp-for="Name" class="form-control" />
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="Adress" class="control-label"></label>
+						<input id="adress" asp-for="Adress" class="form-control" />
+						<span asp-validation-for="Adress" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="PhoneNumber" class="control-label"></label>
+						<input id="phone" asp-for="PhoneNumber" class="form-control" />
+						<span asp-validation-for="PhoneNumber" class="text-danger"></span>
+					</div>
+					<div class="form-group">
+						<label asp-for="YearBirth" class="control-label"></label>
+						<input id="birth" asp-for="YearBirth" class="form-control" />
+						<span asp-validation-for="YearBirth" class="text-danger"></span>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+				<label asp-for="Wage" class="control-label"></label>
+				<input id="wage" asp-for="Wage" class="form-control" />
+				<span asp-validation-for="Wage" class="text-danger"></span>
+			</div>
+			<input hidden class="form-check-input" asp-for="Completed" />
+			<div class="form-group">
+				<input type="submit" value="Create" class="btn btn-primary" />
+			</div>
+		</form>
+	</div>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+	@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

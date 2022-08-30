@@ -1,0 +1,127 @@
+﻿@model Exam.Models.MasterViewModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h1>Create</h1>
+
+<h4>Masters</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input id="email" asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input id="passward" asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input id="city" asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Education" class="control-label"></label>
+                <input id="education" asp-for="Education" class="form-control" />
+                <span asp-validation-for="Education" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateofBirth" class="control-label"></label>
+                <input id="dateofbirth" asp-for="DateofBirth" class="form-control" />
+                <span asp-validation-for="DateofBirth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Language" class="control-label"></label>
+                <input id="language" asp-for="Language" class="form-control" />
+                <span asp-validation-for="Language" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input id="name" asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input id="Phone" asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Relationship" class="control-label"></label>
+                <input id="rel" asp-for="Relationship" class="form-control" />
+                <span asp-validation-for="Relationship" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+
+                @Html.LabelFor(model => model.files, htmlAttributes: new { @class = "control-label" })
+                <input id="files" name="files" type="file" size="1" />
+                @Html.ValidationMessageFor(model => model.files, "", new { @class = "text-danger" })
+
+            </div>
+            <div class="form-group">
+                <input id="submit" type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+<script>
+    $(document).ready(function () {
+        $("#submit").click(function (e) {
+
+            e.preventDefault();
+
+            var input = document.getElementById('files');
+            var files = input.files;
+            var formData = new FormData();
+
+            var val = document.getElementsByName("__RequestVerificationToken")[0].value;
+
+            formData.append("__RequestVerificationToken", val);
+
+            for (var i = 0; i != files.length; i++) {
+                formData.append("files", files[i]);
+            }
+            formData.append("email", document.getElementById('email').value);
+            formData.append("password", document.getElementById('passward').value);
+            formData.append("City", document.getElementById('city').value);
+            formData.append("Education", document.getElementById('education').value);
+            formData.append("DateofBirth", document.getElementById('dateofbirth').value);
+            formData.append("Language", document.getElementById('language').value);
+            formData.append("Name", document.getElementById('name').value);
+            formData.append("Phone", document.getElementById('Phone').value);
+            formData.append("Relationship", document.getElementById('rel').value);
+
+            $.ajax(
+                {
+                   url: '@Url.Action("UploadFiles", "Home")',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    type: "POST",
+                    success: function (data) {
+                        alert("123");
+                        window.location.href ='@Url.Action("Home","Index")';
+
+                    },
+                    error: function (data) {
+                        console.log(data);
+                    }
+                }
+
+            );
+        });
+
+    });
+</script>

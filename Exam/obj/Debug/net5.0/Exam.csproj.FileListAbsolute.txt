@@ -1,0 +1,1994 @@
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.csproj.AssemblyReference.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.Manifest.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.xml
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\scopedcss\bundle\Exam.styles.css
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.input.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.output.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.RazorCoreGenerate.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\appsettings.json
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.StaticWebAssets.xml
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.exe
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\netstandard.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Console.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Data.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Web.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.Views.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Exam.Views.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cache
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cs
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.Views.pdb
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CopyComplete
+C:\Users\dimar\Downloads\Exam (2)\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\appsettings.Development.json
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\appsettings.json
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.StaticWebAssets.xml
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.exe
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\netstandard.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Console.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Data.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Web.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.Views.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Exam.Views.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Humanizer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Новая папка (4)\Exam\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.Manifest.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.xml
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\scopedcss\bundle\Exam.styles.css
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.input.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.output.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.RazorCoreGenerate.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cs
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.Views.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CopyComplete
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.dll
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache
+D:\Новая папка (4)\Exam\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\IndexOrders.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\appsettings.Development.json
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\appsettings.json
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.StaticWebAssets.xml
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.exe
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\netstandard.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Console.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Web.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.Views.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.Views.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Humanizer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.AssemblyReference.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.Manifest.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.xml
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\scopedcss\bundle\Exam.styles.css
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.input.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.output.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorCoreGenerate.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\IndexOrders.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cache
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cs
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.Views.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CopyComplete
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+D:\Програмирование\ASPNET core\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\appsettings.Development.json
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\appsettings.json
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.StaticWebAssets.xml
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.exe
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.deps.json
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.json
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.runtimeconfig.dev.json
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ref\Exam.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\mscorlib.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\netstandard.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.AppContext.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Buffers.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Configuration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Console.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.Common.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Data.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Memory.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Mail.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Ping.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Requests.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Security.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ObjectModel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Claims.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.ValueTuple.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Web.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\refs\WindowsBase.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.Views.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Exam.Views.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Humanizer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.AssemblyReference.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfoInputs.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.AssemblyInfo.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CoreCompileInputs.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorAssemblyInfo.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.Manifest.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\staticwebassets\Exam.StaticWebAssets.xml
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\scopedcss\bundle\Exam.styles.css
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.input.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.TagHelpers.output.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorCoreGenerate.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Create.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Delete.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Details.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Edit.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Goods\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\IndexOrders.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Create.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Delete.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Details.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Edit.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cache
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.RazorTargetAssemblyInfo.cs
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.Views.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.csproj.CopyComplete
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\ref\Exam.dll
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.pdb
+D:\Програмирование\ASPNETcore\Exam\Exam2\Exam\Exam\obj\Debug\net5.0\Exam.genruntimeconfig.cache

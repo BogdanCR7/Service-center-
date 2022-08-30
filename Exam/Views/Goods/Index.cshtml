@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Exam.Models.Good>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div class="container">
+    <div class="head">
+        <div class="headtext">
+            Goods
+        </div>
+        <form>
+            <button asp-action="Create" class="butn btn-3 btn-sep icon-heart">Add</button>
+            </form>
+    </div>
+<table>
+    <thead>
+        <tr>
+            <th>SerialNumber</th>
+            <th>YearOfIssue</th>
+            <th>Brand</th>
+            <th>Price</th>
+            <th style="text-align: center;">Model</th>
+            <th style="text-align: center;">Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.SerialNumber</td>
+            <td>@item.YearOfIssue</td>
+            <td>@item.Brand</td>
+            <td>@item.Price</td>
+            <td>@item.Model</td>
+            <td>@item.Category.category</td>
+
+            <td style="max-width:140px;" class="act">
+                <form id="e@item.GoodsId" onclick="edit(this.id)" asp-action="Edit" asp-route-id="@item.GoodsId" method="get">
+                    <div class="click-to-top">
+                        <img style="width: 20px;height:20px; cursor: pointer;" src="pencil.png" alt="">
+                        <span>Edit</span>
+                    </div>
+                </form>
+                <form id="d@item.GoodsId" onclick="Delete(this.id)" asp-action="Delete" asp-route-id="@item.GoodsId">
+                    <div asp-action="delete" class="click-to-top">
+                        <img style="width: 20px;height:20px;cursor: pointer;" src="delete.png" alt="">
+                        <span>Delete</span>
+                    </div>
+                </form>
+            </td>
+        </tr>
+
+        }
+    </tbody>
+</table>
+</div>
+<script>
+    function Delete(id) {
+        document.getElementById(id).submit();
+    }
+    function edit(id) {
+        document.getElementById(id).submit();
+    }
+</script>
+

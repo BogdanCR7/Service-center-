@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Exam.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div style="max-width:500px;" class="container">
+    <div class="head">
+        <div class="headtext">
+            Categories
+        </div>
+        <form>
+            <button asp-action="Create" type="submit" class="butn btn-3 btn-sep icon-heart">Add</button>
+        </form>
+    </div>
+    <table>
+        <thead>
+            <tr>
+                <th>Category</th>
+                <th>Actions</th>
+               
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.category</td>
+                   
+
+                    <td style="max-width:160px;" class="act">
+                        <form id="edit+@item.CategoryId" onClick="this.submit()" asp-action="Edit" asp-route-id="@item.CategoryId" method="get">
+                        <div   class="click-to-top">
+                            <img style="width: 20px;height:20px; cursor: pointer;" src="pencil.png" alt="">
+                            <span>Edit</span>
+                        </div>
+                            </form>
+                        @*<form id="delete@item.CategoryId"this.submit()" asp-action="Delete" asp-route-id="@item.CategoryId">
+                        <div  asp-action="delete"  class="click-to-top">
+                            <img style="width: 20px;height:20px;cursor: pointer;" src="delete.png" alt="">
+                            <span>Delete</span>
+                        </div>
+                            </form>*@
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>
+<script>
+   
+</script>
+

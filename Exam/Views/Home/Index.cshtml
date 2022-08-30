@@ -1,0 +1,151 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Exam.Areas.Identity.Data.User>
+
+<head>
+    <link rel="stylesheet" href="~/css/card.css" asp-append-version="true">
+    <style>
+        .mastermain{
+            max-width:1350px;
+            width:100%;
+           
+           
+           align-items:center;
+           justify-content:center;
+            margin:0 auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="height: 100%; " class="mastermain">
+        <div style="max-width:1345px;width:100%;" class="head">
+            <div class="headtext">
+                Masters
+            </div>
+            <form>
+                <button asp-action="Create" class="butn btn-3 btn-sep icon-heart">Add</button>
+            </form>
+        </div>
+        <div style="display:flex;width:100%;height:100%;flex-wrap:wrap;align-items:flex-start;justify-content:space-around;">
+            @foreach (var item in Model)
+            {
+
+                <div class="cssui-usercard">
+                    <div class="cssui-usercard__body">
+                        <div class="cssui-usercard__header">
+                            <form asp-action="IndexOrders" asp-route-id="@item.Id" method="get" onclick="this.submit()">
+                                <img style="cursor:pointer;" src="~/@item.ImagePath" class="cssui-usercard__avatar" alt="Avatar">
+                                </form>
+                                <div class="cssui-usercard__header-info">
+
+                                    <span class="cssui-usercard__post">@item.Name</span>
+                                </div>
+                        </div>
+                        <div class="cssui-usercard__content">
+                            <div class="cssui-slider">
+
+                                <!-- the control elements of slider -->
+
+                                <input id="slide1" type="radio" class="cssui-slider__switch cssui-usercard__switch" name="slider-controls" checked autofocus>
+                                <label for="slide1" class="cssui-slider__control cssui-usercard__control"></label>
+                                <input id="slide2" type="radio" class="cssui-slider__switch cssui-usercard__switch" name="slider-controls">
+                                <label for="slide2" class="cssui-slider__control cssui-usercard__control"></label>
+                                <input id="slide3" type="radio" class="cssui-slider__switch cssui-usercard__switch" name="slider-controls">
+                                <label for="slide3" class="cssui-slider__control cssui-usercard__control"></label>
+
+                                <div class="cssui-slider__slides">
+
+                                    <!-- first slide -->
+
+                                    <div class="cssui-slider__slide">
+                                        <h4 class="cssui-usercard__title">About me</h4>
+                                        <div class="cssui-usercard__stats">
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-earth"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Favourite Player</span>
+                                                    <span class="cssui-stats__value">Shaparenko</span>
+                                                </div>
+                                            </div>
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-location"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">City</span>
+                                                    <span class="cssui-stats__value">@item.City</span>
+                                                </div>
+                                            </div>
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-calendar"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Date of birth</span>
+                                                    <span class="cssui-stats__value">@item.DateofBirth</span>
+                                                </div>
+                                            </div>
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-man-woman"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Relationship</span>
+                                                    <span class="cssui-stats__value">@item.Relationship</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <!-- second slide -->
+
+                                    <div class="cssui-slider__slide">
+                                        <h4 class="cssui-usercard__title">My Skills</h4>
+                                        <div class="cssui-usercard__stats">
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-html"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Education</span>
+                                                    <span class="cssui-stats__value">@item.Education</span>
+                                                </div>
+                                            </div>
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-vue"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Languge</span>
+                                                    <span class="cssui-stats__value">@item.Language</span>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!-- third slide -->
+
+                                    <div class="cssui-slider__slide">
+                                        <h4 class="cssui-usercard__title">My Contacts</h4>
+                                        <div class="cssui-usercard__stats">
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-email"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">E-mail</span>
+                                                    <a href="#0" class="cssui-stats__value">@item.Email</a>
+                                                </div>
+                                            </div>
+                                            <div class="cssui-stats cssui-usercard__stats-item">
+                                                <i class="cssui-icon icon-phone"></i>
+                                                <div class="cssui-stats__info cssui-usercard__stats-info">
+                                                    <span class="cssui-stats__name cssui-usercard__stats-name">Phone</span>
+                                                    <a class="cssui-stats__value">@item.Phone</a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+        }
+            </div>
+        </div>
+</body>
+

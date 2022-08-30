@@ -1,0 +1,73 @@
+﻿@model IEnumerable<Exam.Models.Order>
+
+@{
+	ViewData["Title"] = "Index";
+}
+
+
+
+
+
+<div class="container">
+	<div class="head">
+		<div class="headtext">
+			Orders
+		</div>
+		@if (!User.IsInRole("Admin")) { 
+		<form>
+			<button asp-action="Create" class="butn btn-3 btn-sep icon-heart">Add</button>
+		</form>
+		}
+	</div>
+	<table style="text-align:left;">
+		<thead>
+			<tr>
+				<th>Start</th>
+				<th>End</th>
+				<th >Wage</th>
+				<th >Status</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+			<tr>
+
+				<td>@item.Start</td>
+				<td  style="max-width:272px;width:272px;">@item.End</td>
+				<td style="text-align:left;" class="amount">@item.Wage</td>
+				<td style="text-align: center;">
+					<form>
+						@if (item.Completed)
+						{
+							<input id="@item.OrderId" class="complete" type="submit" value="Completed" asp-action="UnComplete" asp-route-id="@item.OrderId">
+						}
+						else
+						{
+							<input  id="@item.OrderId"class="uncomplete" type="submit" value="UnCompleted" asp-action="Complete" asp-route-id="@item.OrderId">
+						}
+					</form>
+				</td>
+					<td class="act">
+					
+
+						<form asp-action="Edit" asp-route-id="@item.OrderId" method="get" onclick="this.submit()">
+							<div asp-action="Edit" asp-route-id="@item.OrderId" class="click-to-top">
+								<img style="width: 20px;height:20px; cursor: pointer;" src="pencil.png" alt="">
+								<span>Edit</span>
+							</div>
+						</form>
+						<form asp-action="Delete" asp-route-id="@item.OrderId" onclick="this.submit()">
+							<div asp-action="Delete" asp-route-id="@item.OrderId" class="click-to-top">
+								<img style="width: 20px;height:20px;cursor: pointer;" src="delete.png" alt="">
+								<span>Delete</span>
+							</div>
+						</form>
+					</td>
+				</tr>
+
+			}
+		</tbody>
+	</table>
+</div>
